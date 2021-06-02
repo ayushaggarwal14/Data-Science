@@ -2,11 +2,11 @@
 
 Description
 
-I Text Analytics - Doge to the Moon Article
+I Text Analytics - to the Moon 
 - Libraries Used - NLTK
 - Deleting Punctuation and stop words
 - Lemmation
-- Creation of WordCloud on Doge Photo
+- Creation of WordCloud on DC Photo
 
 
 II Classfication _Imbalanced Data - Credit Card Lead Prediction
