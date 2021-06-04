@@ -2,14 +2,14 @@
 
 Description
 
-I Text Analytics - to the Moon 
+I Text Analytics NLP
 - Libraries Used - NLTK
 - Deleting Punctuation and stop words
 - Lemmation
 - Creation of WordCloud on DC Photo
 
 
-II Classfication _Imbalanced Data - Credit Card Lead Prediction
+II Credit Card Lead Prediction - Classification
 
 Classfication Model
  -  EDA
@@ -17,3 +17,5 @@ Classfication Model
  -  Encoding Categorical Variables
  -  KFold Stratified and Cross Validation 
  -  Model Building - XGBoost
+
+III Car Selling Price Prediction - Multiple Linear Regression
