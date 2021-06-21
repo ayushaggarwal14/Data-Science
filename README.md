@@ -19,3 +19,8 @@ Classfication Model
  -  Model Building - XGBoost
 
 III Car Selling Price Prediction - Multiple Linear Regression
+
+IV - Algo Trading - S&P500 Data
+
+Objective 1. Arranging stocks based on volatility in a particular time period + EDA on a particular stock
+Objective 2. Finding stock whose prices movements are coorrelated to each other - Pair Trading
